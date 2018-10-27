@@ -4,7 +4,7 @@ Assets, like logos etc.
 
 ## Directories
 
-* `/logo/` - Logos, license: [CC-BY-4.0](https://github.com/Ungoogled-Lineage/ungoogled-lineage-assets/blob/master/Logo/LICENSE)
+* `/logo/` - Logos, license: [CC-BY-4.0](logo/LICENSE)
 
 ## HTTP Access
 
